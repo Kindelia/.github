@@ -12,6 +12,6 @@ decentralized apps that stay up forever.
 [twitter]: https://x.com/KindeliaOrg
 [discord]: https://discord.kindelia.org
 
-[twitter badge]: https://img.shields.io/badge/%40KindeliaOrg-fff?logo=X&style=for-the-badge&label=Follow&labelColor=000
+[twitter badge]: https://img.shields.io/badge/%40KindeliaOrg-fafafa?logo=X&style=for-the-badge&label=Follow&labelColor=000
 
 [discord badge]: https://img.shields.io/discord/1237934461610627123.svg?label=Join%20Discord&logo=Discord&colorB=7289da&style=for-the-badge
